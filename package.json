@@ -1,0 +1,18 @@
+{
+  "name": "react-native-basscss",
+  "version": "1.1.0",
+  "description": "react native version basscss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "style",
+    "react-native"
+  ],
+  "author": "dongdayu",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "latest"
+  }
+}
