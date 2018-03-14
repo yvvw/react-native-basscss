@@ -11,5 +11,8 @@
     "react-native"
   ],
   "author": "dongdayu",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "latest"
+  }
 }
