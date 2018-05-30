@@ -13,5 +13,5 @@ module.exports = {
   ...border,
   ...hide,
   ...typeScale,
-  ...typography,
+  ...typography
 }

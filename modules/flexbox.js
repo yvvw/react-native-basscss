@@ -36,5 +36,5 @@ export default StyleSheet.create({
   contentCenter: { alignContent: 'center' },
   contentStretch: { alignContent: 'stretch' },
   contentBetween: { alignContent: 'space-between' },
-  contentAround: { alignContent: 'space-around' },
+  contentAround: { alignContent: 'space-around' }
 })

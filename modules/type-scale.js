@@ -21,5 +21,5 @@ export default StyleSheet.create({
   size27: { fontSize: 27 },
   size28: { fontSize: 28 },
   size29: { fontSize: 29 },
-  size30: { fontSize: 30 },
+  size30: { fontSize: 30 }
 })

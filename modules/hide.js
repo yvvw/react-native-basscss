@@ -1,5 +1,5 @@
 import { StyleSheet } from 'react-native'
 
 export default StyleSheet.create({
-  hide: { display: 'none' },
+  hide: { display: 'none' }
 })

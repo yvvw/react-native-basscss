@@ -10,5 +10,5 @@ export default StyleSheet.create({
     borderRightWidth: 0,
     borderBottomWidth: 0,
     borderLeftWidth: 0
-  },
+  }
 })

@@ -17,5 +17,5 @@ export default StyleSheet.create({
   leftAlign: { textAlign: 'left' },
   rightAlign: { textAlign: 'right' },
   center: { textAlign: 'center' },
-  justify: { textAlign: 'justify' },
+  justify: { textAlign: 'justify' }
 })
