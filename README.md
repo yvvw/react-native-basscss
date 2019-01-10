@@ -1,4 +1,4 @@
-# React Native Basscss [![npm version](https://badge.fury.io/js/%40yyyyu%2Freact-native-wechat.svg)](https://badge.fury.io/js/%40yyyyu%2Freact-native-wechat)
+# React Native Basscss [![npm version](https://badge.fury.io/js/%40yyyyu%2Freact-native-basscss.svg)](https://badge.fury.io/js/%40yyyyu%2Freact-native-basscss)
 
 ## Install
 
